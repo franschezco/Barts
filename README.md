@@ -10,8 +10,6 @@ Barts Music Player is a sleek and intuitive music player app built with Flutter.
 ![Screenshot 1](assets/screenshot/screenshot1.png)
 
 
-![Screenshot 2](assets/screenshot/screenshot2.png)
-
 
 ![Screenshot 3](assets/screenshot/screenshot3.png)
 
@@ -26,6 +24,6 @@ Feel free to explore the features, enjoy your favorite tracks, and let the music
 
 ## Feedback
 
-We value your feedback! If you have any suggestions, bug reports, or feature requests, please don't hesitate to reach out to us. You can contact our support team at support@bartsplayer.com or visit our website at [www.bartsplayer.com](https://www.bartsplayer.com).
+We value your feedback! If you have any suggestions, bug reports, or feature requests, please don't hesitate to reach out to us. You can contact our support team at frankojarkarta@gmail.com or visit our website at [www.frankoe.xyz](https://www.frankoe.xyz).
 
 Thank you for choosing Barts Music Player! We hope you enjoy using our app as much as we enjoyed creating it. Happy listening!
