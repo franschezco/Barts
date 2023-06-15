@@ -7,13 +7,13 @@ Barts Music Player is a sleek and intuitive music player app built with Flutter.
 ## Screenshots
 
 
-![Screenshot 1](assets/screenshots/screenshot1.png)
+![Screenshot 1](assets/screenshot/screenshot1.png)
 
 
-![Screenshot 2](assets/screenshots/screenshot2.png)
+![Screenshot 2](assets/screenshot/screenshot2.png)
 
 
-![Screenshot 3](assets/screenshots/screenshot3.png)
+![Screenshot 3](assets/screenshot/screenshot3.png)
 
 
 ## Download
